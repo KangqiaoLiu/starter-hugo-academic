@@ -53,6 +53,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a Ph.D student in physics in Prof. Masahito Ueda group at the Department of Physics, University of Tokyo, Japan. My research interests include information thermodynamics and deep learning theory. My master thesis was about thermodynamic uncertainty relations for arbitrary initial states in Markov dynamics. I also did research about theories of stochastic gradient descent algorithms in deep learning.
+I'm a Ph.D student in physics in Prof. Masahito Ueda group at the Department of Physics, University of Tokyo, Japan. My research interests include information thermodynamics and deep learning theory. My master thesis was about thermodynamic uncertainty relations for arbitrary initial states in Markov dynamics. I also did research about theories of stochastic gradient descent algorithms in deep learning. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}
